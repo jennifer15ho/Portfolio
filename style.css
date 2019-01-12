@@ -18,12 +18,14 @@
     margin-top:5px;
     margin-bottom:5px;
 }
-.aboutme{
-    border:1px solid black;   
-    }
+
+body {
+    background-image: url("https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fannabel%2Ffiles%2F2018%2F02%2FLouisville_Skyline-1200x801.jpg")
+}
     
 .footer {
     display: flex;
+    width: 100%;
     justify-content: space-around;
     box-shadow: 2px 2px 10px #3F3E3D;
 }

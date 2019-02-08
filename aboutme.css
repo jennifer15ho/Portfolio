@@ -25,3 +25,8 @@ ul {
     font-size:20px;
     display: flex;
 }
+
+#info{
+    border: white 10px solid;
+    margin-right: 50px;
+}
